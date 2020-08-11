@@ -1,0 +1,40 @@
+.himg{    
+    width: 100vw;
+    height: 250px;
+}
+.head h2{
+    font-weight: bold;
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+.container{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.head{
+    margin-top: 20px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.content{
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.opt{
+    width: 255px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: cornflowerblue;
+    margin: 10px 10px;
+    padding: 5px;
+    color: white;
+    text-decoration: inherit;
+    border-radius: 10px;
+}

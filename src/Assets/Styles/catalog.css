@@ -1,0 +1,35 @@
+.catalog-box{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;    
+    padding: 10px 20px;
+}
+.chead{
+    margin: 15px;
+}
+.heads{
+    background-color: lightskyblue;
+    color: whitesmoke;    
+}
+.packs-box{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.pbox{
+    width: 250px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px 5px;
+    height: fit-content;
+}
+.channelbox{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 0px;
+}
+.channel{
+    padding: 2px 2px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}

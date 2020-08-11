@@ -1,0 +1,26 @@
+.subbox{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 5px;       
+}
+.fbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.subin{
+    margin-bottom: 10px;
+}
+.subbtn{
+    width: 90px;
+}
+.errmsg{
+    font-size: 12px;
+    color: red;
+}
+.balbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}

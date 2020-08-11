@@ -1,0 +1,17 @@
+.updatebox{
+    display: flex;
+    justify-content: center;
+    margin: 20px;    
+}
+.upbox{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.uform{
+    width:300px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    padding: 15px;
+}

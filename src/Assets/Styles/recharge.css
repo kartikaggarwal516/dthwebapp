@@ -1,0 +1,49 @@
+.recharge-box{
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+}
+.rbox{
+    width: 70vw;
+    height: 60vh;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.amount{
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;   
+}
+.amount-box{
+    display: flex;    
+    width: 50vw;
+}
+.inclass{
+    width: 250px;
+    margin-right: 10px;
+    border: 1px solid lightgray;
+}
+.amount-box Button{
+    position: relative;
+    bottom: 3px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.newbalance{
+    width: 40vw;
+}
