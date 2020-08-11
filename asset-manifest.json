@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dthwebapp/static/css/main.d84fd686.chunk.css",
+    "main.js": "/dthwebapp/static/js/main.994fca71.chunk.js",
+    "main.js.map": "/dthwebapp/static/js/main.994fca71.chunk.js.map",
+    "runtime-main.js": "/dthwebapp/static/js/runtime-main.358ba8dd.js",
+    "runtime-main.js.map": "/dthwebapp/static/js/runtime-main.358ba8dd.js.map",
+    "static/css/2.11829350.chunk.css": "/dthwebapp/static/css/2.11829350.chunk.css",
+    "static/js/2.dc1647e9.chunk.js": "/dthwebapp/static/js/2.dc1647e9.chunk.js",
+    "static/js/2.dc1647e9.chunk.js.map": "/dthwebapp/static/js/2.dc1647e9.chunk.js.map",
+    "index.html": "/dthwebapp/index.html",
+    "precache-manifest.cba09798136a9ccc745b89964edf4000.js": "/dthwebapp/precache-manifest.cba09798136a9ccc745b89964edf4000.js",
+    "service-worker.js": "/dthwebapp/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/dthwebapp/static/css/2.11829350.chunk.css.map",
+    "static/css/main.d84fd686.chunk.css.map": "/dthwebapp/static/css/main.d84fd686.chunk.css.map",
+    "static/js/2.dc1647e9.chunk.js.LICENSE.txt": "/dthwebapp/static/js/2.dc1647e9.chunk.js.LICENSE.txt",
+    "static/media/pic2.jpg": "/dthwebapp/static/media/pic2.1891b84c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358ba8dd.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.dc1647e9.chunk.js",
+    "static/css/main.d84fd686.chunk.css",
+    "static/js/main.994fca71.chunk.js"
+  ]
+}
